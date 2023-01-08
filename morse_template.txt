@@ -1,0 +1,4 @@
+Problems that I encountered with this project was the extra credit section. I struggled with understanding what the 0s and 1s meant but with some assistance, I was able to solve this. 
+This was the only problem that I encountered in this coding challenge.
+
+The most significant think I learnt in this coding challenge was learning how to use a tuple. Once i had figured out the logic for the rest of the program, I was able to solve it pretty simply.

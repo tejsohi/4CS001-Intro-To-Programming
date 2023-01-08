@@ -1,0 +1,3 @@
+I did not encounter many problems while I was doing this coding challenge. The main problem that I faced was getting the values correct for the output but i was able to solve this pretty quickly.
+
+The most significant thing I learnt in this coding challenge was string formatting in python. The that formatting is done is quite interesting and confusing at times.

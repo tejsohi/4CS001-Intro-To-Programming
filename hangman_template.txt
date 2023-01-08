@@ -1,0 +1,5 @@
+Problems that I encountered in this coding challenge was in the is_word_guessed function.
+I struggled with being able to return the correct value, but I was able to solve this using my problem solving skills and online research to  find different methods of what I was trying to achieve.
+I also struggled with the logic of the main hangman function, but with trial and error I was able to get the logic of the program in the correct order.
+
+The most significant things that I learnt in this coding challenge were using set, advanced string manipulation, and manipulating file by reading, writing and appending to them. 
